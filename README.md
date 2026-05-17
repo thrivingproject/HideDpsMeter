@@ -4,7 +4,7 @@ Hides Blizzard's built-in Damage Meter while you are in combat, then shows it ag
 
 ## Why?
 
-If you're the kind of player who can't help glancing at the meter mid-fight, that glance costs you — concentration drops, mechanics get missed, and a live number ticking up or down triggers little hits of pride or frustration that have no business affecting your play. This addon takes the temptation away during the pull and delays showing you that information until after the fight (when looking at the numbers is actually useful).
+We all want big numbers. This addon lets you lock in feel the intensity and suspense of pumping the meters throughout the entire fight and then shows you the results when it's over. Watching live number ticking up or down triggers little hits of pride or frustration — or make you mess up mechanics — so this addon lets you delay the gratification until after you get the kill.
 
 ## What it does
 
