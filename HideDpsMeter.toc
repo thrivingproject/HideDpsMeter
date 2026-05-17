@@ -2,6 +2,7 @@
 ## Title: HideDpsMeter
 ## Author: Christian
 ## Notes: Hide DPS Meter while in combat
+## License: MIT
 ## SavedVariables: HideDpsMeterDB
 
 HideDpsMeter.lua

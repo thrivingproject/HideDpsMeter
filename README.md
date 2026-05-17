@@ -19,3 +19,7 @@ Open the game menu → **Options** → **AddOns** → **HideDpsMeter**, and use 
 ## Feedback
 
 Issues and suggestions welcome on the [GitHub repo](https://github.com/).
+
+## License
+
+[MIT](LICENSE)
